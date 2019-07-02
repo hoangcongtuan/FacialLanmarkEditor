@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "586969544353",
+    "firebase_url": "https://opencvtest-866aa.firebaseio.com",
+    "project_id": "opencvtest-866aa",
+    "storage_bucket": "opencvtest-866aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586969544353:android:8018f64aa33901d3",
+        "android_client_info": {
+          "package_name": "com.thmobile.landmarkeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586969544353-ha3iumu3l9c5nvdgl05r23cmmjpa299a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFnX6b2vZ4-DzQJOXWhVTmqKEbFV8Po4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586969544353-ha3iumu3l9c5nvdgl05r23cmmjpa299a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586969544353:android:ecee720a3056ca90",
+        "android_client_info": {
+          "package_name": "com.tuanhc.faciallandmarkeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586969544353-ha3iumu3l9c5nvdgl05r23cmmjpa299a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFnX6b2vZ4-DzQJOXWhVTmqKEbFV8Po4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586969544353-ha3iumu3l9c5nvdgl05r23cmmjpa299a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586969544353:android:60b643afdf1bfcc1",
+        "android_client_info": {
+          "package_name": "com.tuanhc.opencvtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586969544353-ha3iumu3l9c5nvdgl05r23cmmjpa299a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFnX6b2vZ4-DzQJOXWhVTmqKEbFV8Po4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586969544353-ha3iumu3l9c5nvdgl05r23cmmjpa299a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
